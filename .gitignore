@@ -1,0 +1,11 @@
+core
+csrc
+simv*
+vc_hdrs.h
+ucli.key
+urg* 
+*.log
+coverage.vhb
+DVEfiles
+inter.vpd
+.inter.vpd.uvm
